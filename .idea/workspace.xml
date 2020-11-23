@@ -47,7 +47,20 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Baekjoon2742">
+  <component name="RunManager" selected="Application.Baekjoon10818">
+    <configuration name="Baekjoon10818" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.Baekjoon10818" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Baekjoon1330" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="list.Baekjoon1330" />
       <module name="Algorithm" />
@@ -100,19 +113,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baekjoon10818" />
         <item itemvalue="Application.Baekjoon2742" />
         <item itemvalue="Application.Baekjoon2741" />
         <item itemvalue="Application.Baekjoon9498" />
@@ -135,6 +151,7 @@
       <workItem from="1604750195130" duration="394000" />
       <workItem from="1605011493518" duration="144000" />
       <workItem from="1606016499882" duration="154000" />
+      <workItem from="1606133588162" duration="2141000" />
     </task>
     <servers />
   </component>
@@ -162,22 +179,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604324358407" />
-    <state width="934" height="268" key="GridCell.Tab.0.bottom" timestamp="1606016655583">
+    <state width="934" height="268" key="GridCell.Tab.0.bottom" timestamp="1606135754617">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606016655583" />
-    <state width="934" height="268" key="GridCell.Tab.0.center" timestamp="1606016655582">
+    <state width="934" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606135754617" />
+    <state width="934" height="268" key="GridCell.Tab.0.center" timestamp="1606135754617">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="268" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606016655582" />
-    <state width="934" height="268" key="GridCell.Tab.0.left" timestamp="1606016655582">
+    <state width="934" height="268" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606135754617" />
+    <state width="934" height="268" key="GridCell.Tab.0.left" timestamp="1606135754617">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="268" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606016655582" />
-    <state width="934" height="268" key="GridCell.Tab.0.right" timestamp="1606016655583">
+    <state width="934" height="268" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606135754617" />
+    <state width="934" height="268" key="GridCell.Tab.0.right" timestamp="1606135754617">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="934" height="268" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606016655583" />
+    <state width="934" height="268" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606135754617" />
     <state width="1869" height="333" key="GridCell.Tab.1.bottom" timestamp="1604325773752">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
