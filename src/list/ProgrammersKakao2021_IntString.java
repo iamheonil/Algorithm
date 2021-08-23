@@ -18,6 +18,6 @@ public class ProgrammersKakao2021_IntString {
         int s = solution("one4seveneight");
 
         System.out.print(s);
-        
+
     }
 }
