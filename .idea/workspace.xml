@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="378a3274-21c8-4cd0-b6ca-760dc6056415" name="Default Changelist" comment="" />
+    <list default="true" id="378a3274-21c8-4cd0-b6ca-760dc6056415" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +37,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1jjjLw1vB9p3KdG569v8g7hZ7cY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,90 +60,97 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Codeup1402">
-    <configuration name="Baekjoon1152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.Baekjoon1152" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Baekjoon11654" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.Baekjoon11654" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Baekjoon3052" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.Baekjoon3052" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Baekjoon8958" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.Baekjoon8958" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Codeup1402" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.Codeup1402" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="list" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Programmers_ReverseString">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programmers_Jarisu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.Programmers_Jarisu" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programmers_ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.Programmers_ReverseString" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programmers_SameNumberHate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.Programmers_SameNumberHate" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programmers_StringParseInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.Programmers_StringParseInt" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programmers_WhereIsKim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.Programmers_WhereIsKim" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Codeup1402" />
-        <item itemvalue="Application.Baekjoon11654" />
-        <item itemvalue="Application.Baekjoon1152" />
-        <item itemvalue="Application.Baekjoon8958" />
-        <item itemvalue="Application.Baekjoon3052" />
+        <item itemvalue="Application.Programmers_ReverseString" />
+        <item itemvalue="Application.Programmers_SameNumberHate" />
+        <item itemvalue="Application.Programmers_WhereIsKim" />
+        <item itemvalue="Application.Programmers_Jarisu" />
+        <item itemvalue="Application.Programmers_StringParseInt" />
       </list>
     </recent_temporary>
   </component>
@@ -158,6 +178,23 @@
       <workItem from="1628169058213" duration="310000" />
       <workItem from="1628169435377" duration="996000" />
       <workItem from="1628249889318" duration="4355000" />
+      <workItem from="1628430163702" duration="1171000" />
+      <workItem from="1628431562539" duration="592000" />
+      <workItem from="1628509873946" duration="1856000" />
+      <workItem from="1628601750891" duration="1351000" />
+      <workItem from="1628682404830" duration="956000" />
+      <workItem from="1628769409789" duration="3432000" />
+      <workItem from="1629371882781" duration="185000" />
+      <workItem from="1629372485997" duration="11000" />
+      <workItem from="1629372510224" duration="52000" />
+      <workItem from="1629632242590" duration="1013000" />
+      <workItem from="1629633547722" duration="237000" />
+      <workItem from="1629720534345" duration="4864000" />
+      <workItem from="1629888188696" duration="1531000" />
+      <workItem from="1629982010645" duration="954000" />
+      <workItem from="1630066041250" duration="554000" />
+      <workItem from="1630131302895" duration="3797000" />
+      <workItem from="1630209883778" duration="1136000" />
     </task>
     <servers />
   </component>
@@ -175,31 +212,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="637" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1628169063642">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="637" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1628169063642" />
-    <state width="1342" height="268" key="GridCell.Tab.0.bottom" timestamp="1628256507471">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1342" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1628256507471" />
-    <state width="1342" height="268" key="GridCell.Tab.0.center" timestamp="1628256507471">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1342" height="268" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1628256507471" />
-    <state width="1342" height="268" key="GridCell.Tab.0.left" timestamp="1628256507470">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1342" height="268" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1628256507470" />
-    <state width="1342" height="268" key="GridCell.Tab.0.right" timestamp="1628256507471">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1342" height="268" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1628256507471" />
-    <state x="597" y="195" width="726" height="650" key="find.popup" timestamp="1628254034846">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="597" y="195" width="726" height="650" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1628254034846" />
   </component>
 </project>
