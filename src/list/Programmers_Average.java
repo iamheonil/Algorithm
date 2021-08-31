@@ -7,12 +7,13 @@ public class Programmers_Average {
         // 결과를 저장할 double 변수
         double answer = 0;
 
-        // 문자열로 넘어온 s를 함수를 사용하여 answer에 담아준다
+        // 문자열로 넘어온 s를 answer에 담아준다
         for (int i = 0; i < s.length; i++) {
             answer += s[i];
         }
 
-        // answer에 담긴 값 리턴
+        // answer에 담긴 값 리턴, 단 나누는 수는 s의 length만큼
+        // ex) 10/s.length(n)
         return answer / s.length;
 
     }
