@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="378a3274-21c8-4cd0-b6ca-760dc6056415" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list/Programmers_StringBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list/Programmers_StringBasic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +66,7 @@
       <recent name="list" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Programmers_ReverseString">
+  <component name="RunManager" selected="Application.Programmers_StringBasic">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -79,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Programmers_Jarisu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.Programmers_Jarisu" />
+    <configuration name="Programmers_AscNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.Programmers_AscNumber" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Programmers_ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.Programmers_ReverseString" />
+    <configuration name="Programmers_DivisionNumberArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.Programmers_DivisionNumberArrays" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Programmers_SameNumberHate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.Programmers_SameNumberHate" />
+    <configuration name="Programmers_MiddleString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.Programmers_MiddleString" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -118,8 +119,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Programmers_StringParseInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.Programmers_StringParseInt" />
+    <configuration name="Programmers_NumberDescArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.Programmers_NumberDescArray" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -131,8 +132,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Programmers_WhereIsKim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.Programmers_WhereIsKim" />
+    <configuration name="Programmers_StringBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.Programmers_StringBasic" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -146,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Programmers_ReverseString" />
-        <item itemvalue="Application.Programmers_SameNumberHate" />
-        <item itemvalue="Application.Programmers_WhereIsKim" />
-        <item itemvalue="Application.Programmers_Jarisu" />
-        <item itemvalue="Application.Programmers_StringParseInt" />
+        <item itemvalue="Application.Programmers_StringBasic" />
+        <item itemvalue="Application.Programmers_NumberDescArray" />
+        <item itemvalue="Application.Programmers_DivisionNumberArrays" />
+        <item itemvalue="Application.Programmers_AscNumber" />
+        <item itemvalue="Application.Programmers_MiddleString" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +195,25 @@
       <workItem from="1629982010645" duration="954000" />
       <workItem from="1630066041250" duration="554000" />
       <workItem from="1630131302895" duration="3797000" />
-      <workItem from="1630209883778" duration="1136000" />
+      <workItem from="1630209883778" duration="1795000" />
+      <workItem from="1630322137354" duration="2261000" />
+      <workItem from="1630417723371" duration="478000" />
+      <workItem from="1630418493320" duration="64000" />
+      <workItem from="1630418567352" duration="7000" />
+      <workItem from="1630499180361" duration="3352000" />
+      <workItem from="1630584592637" duration="3921000" />
+      <workItem from="1630588991567" duration="210000" />
+      <workItem from="1630589238519" duration="132000" />
+      <workItem from="1630670069054" duration="565000" />
+      <workItem from="1630729051533" duration="28000" />
+      <workItem from="1630832098317" duration="2378000" />
+      <workItem from="1630931113352" duration="5025000" />
+      <workItem from="1631019582066" duration="10000" />
+      <workItem from="1631277126369" duration="517000" />
+      <workItem from="1631293551273" duration="1812000" />
+      <workItem from="1631410470586" duration="18000" />
+      <workItem from="1631412212285" duration="2890000" />
+      <workItem from="1631543246890" duration="96000" />
     </task>
     <servers />
   </component>
