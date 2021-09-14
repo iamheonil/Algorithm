@@ -1,8 +1,5 @@
 package list;
 
-import java.util.Arrays;
-import java.util.Collections;
-
 public class Programmers_NumberPlus {
 
     public static long solution(int a, int b) {
