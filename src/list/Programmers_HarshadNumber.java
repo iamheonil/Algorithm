@@ -12,9 +12,7 @@ public class Programmers_HarshadNumber {
         String[] parseArr = param.split("");
 
         for (int i = 0; i < parseArr.length; i++) {
-
             harshadNum += Integer.parseInt(parseArr[i]);
-
         }
 
         if (n % harshadNum != 0) {
@@ -27,7 +25,8 @@ public class Programmers_HarshadNumber {
     public static void main(String[] args) {
 
         // 파라미터
-        boolean result = solution(11);
+        // boolean result = solution(10); // true
+        boolean result = solution(11); // false
 
         // 솔루션 값 출력
         System.out.print(result);
