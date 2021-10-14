@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="378a3274-21c8-4cd0-b6ca-760dc6056415" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/list/Programmers_StringBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list/Programmers_StringBasic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +65,7 @@
       <recent name="list" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Programmers_StringBasic">
+  <component name="RunManager" selected="Application.Programmers_YaksuSum">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -80,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Programmers_AscNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.Programmers_AscNumber" />
+    <configuration name="Programmers_HarshadNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.Programmers_HarshadNumber" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Programmers_DivisionNumberArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.Programmers_DivisionNumberArrays" />
+    <configuration name="Programmers_MonthlyCodeChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.Programmers_MonthlyCodeChallenge" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Programmers_MiddleString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.Programmers_MiddleString" />
+    <configuration name="Programmers_NumberPlus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.Programmers_NumberPlus" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -119,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Programmers_NumberDescArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.Programmers_NumberDescArray" />
+    <configuration name="Programmers_PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.Programmers_PrimeNumber" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -132,8 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Programmers_StringBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.Programmers_StringBasic" />
+    <configuration name="Programmers_YaksuSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.Programmers_YaksuSum" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -147,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Programmers_StringBasic" />
-        <item itemvalue="Application.Programmers_NumberDescArray" />
-        <item itemvalue="Application.Programmers_DivisionNumberArrays" />
-        <item itemvalue="Application.Programmers_AscNumber" />
-        <item itemvalue="Application.Programmers_MiddleString" />
+        <item itemvalue="Application.Programmers_YaksuSum" />
+        <item itemvalue="Application.Programmers_MonthlyCodeChallenge" />
+        <item itemvalue="Application.Programmers_PrimeNumber" />
+        <item itemvalue="Application.Programmers_HarshadNumber" />
+        <item itemvalue="Application.Programmers_NumberPlus" />
       </list>
     </recent_temporary>
   </component>
@@ -214,6 +213,15 @@
       <workItem from="1631410470586" duration="18000" />
       <workItem from="1631412212285" duration="2890000" />
       <workItem from="1631543246890" duration="96000" />
+      <workItem from="1631621078816" duration="2809000" />
+      <workItem from="1631802409684" duration="926000" />
+      <workItem from="1631927731848" duration="604000" />
+      <workItem from="1632318332618" duration="2503000" />
+      <workItem from="1632401920481" duration="1441000" />
+      <workItem from="1632550539544" duration="14000" />
+      <workItem from="1632658334390" duration="1636000" />
+      <workItem from="1634129894703" duration="2786000" />
+      <workItem from="1634215990698" duration="604000" />
     </task>
     <servers />
   </component>
