@@ -14,7 +14,7 @@ public class Programmers_MonthlyCodeChallengeSeason3 {
                 return i;
             }
         }
-        
+
         return i;
     }
 
@@ -23,7 +23,7 @@ public class Programmers_MonthlyCodeChallengeSeason3 {
         // 파라미터
         int result = solution(12);
 
-        // 솔루션 값 출력
+        // 솔루션 실행 결과 출력
         System.out.print(result);
     }
 }
