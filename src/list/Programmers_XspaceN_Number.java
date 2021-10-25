@@ -1,7 +1,6 @@
 package list;
 
 import java.util.Arrays;
-import java.util.Collections;
 
 public class Programmers_XspaceN_Number {
 
