@@ -18,6 +18,7 @@ public class Programmers_Collatz {
 
         // 몇 번이나 반복되는지 저장할 변수 answer
         int answer = 0;
+        long number = num;
 
         // 실행문
         do {
@@ -25,16 +26,29 @@ public class Programmers_Collatz {
             answer++;
 
             // 조건문
-            if (num % 2 == 0) {
+            if (number % 2 == 0) {
+                // 파라미터로 받은 num이 짝수라면 num을 2로 나눈다
+                // /= 은 대입연산자 (변수 num을 2로 나눈 후 다시 변수 num에 대입)
+                number /= 2;
             } else {
-                num = (num * 3) + 1;
+                // 홀수라면 num에 3을 곱해주고 1을 더해준다
+                number = number * 3 + 1;
             }
+
+            // 위의 작업을 반복하되, 아래와 같이 answer이 500회 이상 반복 된다면
+            // -1을 리턴해준다.
 
             if (answer == 500) {
                 return -1;
-
             }
-        } while (num != 1);
+            // answer이 500을 넘지 않아 자연스럽게 루프문에서 빠지게 된다면 결과를 출력해준다.
+
+            if (num == 1) {
+                return 0;
+            }
+            // 13번 테스트 케이스는 주어지는 값이 '1'이기 때문에 0을 바로 리턴해준다.
+
+        } while (number != 1);
 
         // 결과 출력
         return answer;
@@ -44,7 +58,7 @@ public class Programmers_Collatz {
     public static void main(String[] args) {
 
         // 파라미터
-        int result = solution(626331);
+        int result = solution(1);
 
         // 솔루션 값 출력
         System.out.print(result);
