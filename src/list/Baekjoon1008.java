@@ -8,14 +8,18 @@ public class Baekjoon1008 {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("수를 입력하세요");
-        int a = sc.nextInt();
+        // int a = sc.nextInt();
+        double a = sc.nextInt();
 
         sc.nextLine();
 
         System.out.print("다음 수를 입력하세요 \n");
-        int b = sc.nextInt();
+        // int b = sc.nextInt();
+        double b = sc.nextInt();
 
-        System.out.print(a / (double) b);
+        // System.out.print(a / (double) b);
+
+        System.out.print(a / b);
 
     }
 }
