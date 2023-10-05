@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="378a3274-21c8-4cd0-b6ca-760dc6056415" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,17 +56,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Algorithm\SQL_Algorithm" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="list" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Programmers_ParticipantAndCompletion">
+  <component name="RunManager" selected="Application.Programmers_particularCharacterToUpper">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -79,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Programmers_HarshadNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.Programmers_HarshadNumber" />
+    <configuration name="Programmers_Collatz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.Programmers_Collatz" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Programmers_MonthlyCodeChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.Programmers_MonthlyCodeChallenge" />
+    <configuration name="Programmers_FindPrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.Programmers_FindPrimeNumber" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Programmers_ParticipantAndCompletion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.Programmers_ParticipantAndCompletion" />
+    <configuration name="Programmers_SumMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.Programmers_SumMatrix" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -118,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Programmers_PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.Programmers_PrimeNumber" />
+    <configuration name="Programmers_particularCharacterToUpper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.Programmers_particularCharacterToUpper" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -131,8 +136,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Programmers_YaksuSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.Programmers_YaksuSum" />
+    <configuration name="Programmers_toUpperCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.Programmers_toUpperCase" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -146,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Programmers_ParticipantAndCompletion" />
-        <item itemvalue="Application.Programmers_YaksuSum" />
-        <item itemvalue="Application.Programmers_MonthlyCodeChallenge" />
-        <item itemvalue="Application.Programmers_PrimeNumber" />
-        <item itemvalue="Application.Programmers_HarshadNumber" />
+        <item itemvalue="Application.Programmers_particularCharacterToUpper" />
+        <item itemvalue="Application.Programmers_toUpperCase" />
+        <item itemvalue="Application.Programmers_Collatz" />
+        <item itemvalue="Application.Programmers_FindPrimeNumber" />
+        <item itemvalue="Application.Programmers_SumMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +227,26 @@
       <workItem from="1632658334390" duration="1636000" />
       <workItem from="1634129894703" duration="2786000" />
       <workItem from="1634215990698" duration="1173000" />
-      <workItem from="1634961277179" duration="1374000" />
+      <workItem from="1634961277179" duration="2467000" />
+      <workItem from="1634967469142" duration="833000" />
+      <workItem from="1635071910213" duration="903000" />
+      <workItem from="1635164610827" duration="2886000" />
+      <workItem from="1645338921781" duration="2098000" />
+      <workItem from="1645537325530" duration="3522000" />
+      <workItem from="1645623155108" duration="2246000" />
+      <workItem from="1646815661262" duration="3315000" />
+      <workItem from="1647348053083" duration="1649000" />
+      <workItem from="1647950801367" duration="5263000" />
+      <workItem from="1649414911195" duration="6048000" />
+      <workItem from="1653915694736" duration="5119000" />
+      <workItem from="1654961069502" duration="241000" />
+      <workItem from="1658325100297" duration="135000" />
+      <workItem from="1660052109508" duration="342000" />
+      <workItem from="1660736345512" duration="1085000" />
+      <workItem from="1660738637846" duration="810000" />
+      <workItem from="1664544270465" duration="43000" />
+      <workItem from="1666493044127" duration="544000" />
+      <workItem from="1696513588663" duration="1971000" />
     </task>
     <servers />
   </component>
